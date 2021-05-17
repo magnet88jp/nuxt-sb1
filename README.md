@@ -1,4 +1,5 @@
 # nuxt-sb1
+1
 
 ## Build Setup
 
